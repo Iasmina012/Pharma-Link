@@ -32,7 +32,7 @@
 | ID_Client | Nume | Adresa | Email | Nr. Telefon | ID_Card |
 |-----------|------|--------|-------|------------|---------|
 
-## **Relationships:**
+## **Relatii:**
 - **O farmacie creeaza mai multe carduri** (1:N)
 - **O farmacie are mai multe medicamente** (1:N)
 - **O comanda are mai multe medicamente** (1:N)
